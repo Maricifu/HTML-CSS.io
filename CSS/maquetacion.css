@@ -1,0 +1,11 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+#contenedor{
+    width: 1280px;
+    height: 1800px;
+
+    margin: 0.5em auto;
+    padding: 0.5em;
+}
